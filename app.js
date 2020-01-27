@@ -20,7 +20,7 @@ app.use(express.static("public"));
 // mongoose.connect("mongodb://localhost:27017/postsDB", {
 //   useNewUrlParser: true
 // });
-mongoose.connect("mongodb+srv://admin-rohit:rohitjk123@cluster0-eysfu.mongodb.net/postsDB", {
+mongoose.connect("mongodb+srv://<username:password>/postsDB", {
   useNewUrlParser: true
 });
 
