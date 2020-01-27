@@ -1,6 +1,6 @@
 # Blog-website
 
-This is a Blog website made using NodeJS. It uses MongoDB for persistent storage of the blog. Link to live site: https://serene-gorge-70985.herokuapp.com/
+This is a Blog website made using NodeJS and EJS. It uses MongoDB for persistent storage of the blog. Link to live site: https://serene-gorge-70985.herokuapp.com/
 
 ## Getting Started
 
